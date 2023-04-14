@@ -1,0 +1,495 @@
+=================================================================================
+Assoc: 2 Block_size: 32 Cache_size: 4096
+Basic Cache :
+Total writes: 65535
+Total reads: 934466
+Total write misses: 61483
+Total read misses: 875828
+Total misses: 937311
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 61540
+Total read misses: 875841
+Total misses: 937381
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 61528
+Total read misses: 875816
+Total misses: 937344
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 61524
+Total read misses: 876049
+Total misses: 937573
+
+=================================================================================
+Assoc: 2 Block_size: 32 Cache_size: 8192
+Basic Cache :
+Total writes: 65535
+Total reads: 934466
+Total write misses: 57428
+Total read misses: 817849
+Total misses: 875277
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 57535
+Total read misses: 818229
+Total misses: 875764
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 57588
+Total read misses: 818353
+Total misses: 875941
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 57661
+Total read misses: 817842
+Total misses: 875503
+
+=================================================================================
+Assoc: 2 Block_size: 32 Cache_size: 16384
+Basic Cache :
+Total writes: 65535
+Total reads: 934466
+Total write misses: 49451
+Total read misses: 700722
+Total misses: 750173
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 49908
+Total read misses: 700894
+Total misses: 750802
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 49833
+Total read misses: 700660
+Total misses: 750493
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 50229
+Total read misses: 702114
+Total misses: 752343
+
+=================================================================================
+Assoc: 2 Block_size: 32 Cache_size: 32768
+Basic Cache :
+Total writes: 65535
+Total reads: 934466
+Total write misses: 33363
+Total read misses: 466503
+Total misses: 499866
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 35074
+Total read misses: 468176
+Total misses: 503250
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 34847
+Total read misses: 467423
+Total misses: 502270
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 41475
+Total read misses: 584400
+Total misses: 625875
+
+=================================================================================
+Assoc: 2 Block_size: 32 Cache_size: 65536
+Basic Cache :
+Total writes: 65535
+Total reads: 934466
+Total write misses: 2048
+Total read misses: 0
+Total misses: 2048
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 2048
+Total read misses: 0
+Total misses: 2048
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 2048
+Total read misses: 0
+Total misses: 2048
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 2048
+Total read misses: 0
+Total misses: 2048
+
+=================================================================================
+Assoc: 4 Block_size: 32 Cache_size: 4096
+Basic Cache :
+Total writes: 65535
+Total reads: 934466
+Total write misses: 61494
+Total read misses: 876084
+Total misses: 937578
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 61553
+Total read misses: 876057
+Total misses: 937610
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 61528
+Total read misses: 876059
+Total misses: 937587
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 61521
+Total read misses: 875932
+Total misses: 937453
+
+=================================================================================
+Assoc: 4 Block_size: 32 Cache_size: 8192
+Basic Cache :
+Total writes: 65535
+Total reads: 934466
+Total write misses: 57507
+Total read misses: 817232
+Total misses: 874739
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 57591
+Total read misses: 817443
+Total misses: 875034
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 57606
+Total read misses: 817250
+Total misses: 874856
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 57612
+Total read misses: 817656
+Total misses: 875268
+
+=================================================================================
+Assoc: 4 Block_size: 32 Cache_size: 16384
+Basic Cache :
+Total writes: 65535
+Total reads: 934466
+Total write misses: 49568
+Total read misses: 700441
+Total misses: 750009
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 49693
+Total read misses: 701248
+Total misses: 750941
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 49708
+Total read misses: 700801
+Total misses: 750509
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 50164
+Total read misses: 701377
+Total misses: 751541
+
+=================================================================================
+Assoc: 4 Block_size: 32 Cache_size: 32768
+Basic Cache :
+Total writes: 65535
+Total reads: 934466
+Total write misses: 33376
+Total read misses: 467039
+Total misses: 500415
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 34731
+Total read misses: 468649
+Total misses: 503380
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 34481
+Total read misses: 467573
+Total misses: 502054
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 41085
+Total read misses: 584196
+Total misses: 625281
+
+=================================================================================
+Assoc: 4 Block_size: 32 Cache_size: 65536
+Basic Cache :
+Total writes: 65535
+Total reads: 934466
+Total write misses: 2048
+Total read misses: 0
+Total misses: 2048
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 2048
+Total read misses: 0
+Total misses: 2048
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 2048
+Total read misses: 0
+Total misses: 2048
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 2048
+Total read misses: 0
+Total misses: 2048
+
+=================================================================================
+Assoc: 8 Block_size: 32 Cache_size: 4096
+Basic Cache :
+Total writes: 65535
+Total reads: 934466
+Total write misses: 61440
+Total read misses: 875567
+Total misses: 937007
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 61584
+Total read misses: 875981
+Total misses: 937565
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 61518
+Total read misses: 875661
+Total misses: 937179
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 61443
+Total read misses: 875940
+Total misses: 937383
+
+=================================================================================
+Assoc: 8 Block_size: 32 Cache_size: 8192
+Basic Cache :
+Total writes: 65535
+Total reads: 934466
+Total write misses: 57503
+Total read misses: 817518
+Total misses: 875021
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 57574
+Total read misses: 816845
+Total misses: 874419
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 57597
+Total read misses: 817317
+Total misses: 874914
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 57501
+Total read misses: 817387
+Total misses: 874888
+
+=================================================================================
+Assoc: 8 Block_size: 32 Cache_size: 16384
+Basic Cache :
+Total writes: 65535
+Total reads: 934466
+Total write misses: 49416
+Total read misses: 700253
+Total misses: 749669
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 49670
+Total read misses: 700521
+Total misses: 750191
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 49576
+Total read misses: 700257
+Total misses: 749833
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 49990
+Total read misses: 702877
+Total misses: 752867
+
+=================================================================================
+Assoc: 8 Block_size: 32 Cache_size: 32768
+Basic Cache :
+Total writes: 65535
+Total reads: 934466
+Total write misses: 33391
+Total read misses: 466795
+Total misses: 500186
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 34530
+Total read misses: 468420
+Total misses: 502950
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 34431
+Total read misses: 468275
+Total misses: 502706
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 41103
+Total read misses: 584453
+Total misses: 625556
+
+=================================================================================
+Assoc: 8 Block_size: 32 Cache_size: 65536
+Basic Cache :
+Total writes: 65535
+Total reads: 934466
+Total write misses: 2048
+Total read misses: 0
+Total misses: 2048
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 2048
+Total read misses: 0
+Total misses: 2048
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 2048
+Total read misses: 0
+Total misses: 2048
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 65535
+Total reads: 934466
+Total write misses: 2048
+Total read misses: 0
+Total misses: 2048
+
