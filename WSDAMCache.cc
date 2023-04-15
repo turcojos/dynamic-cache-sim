@@ -132,7 +132,6 @@ void WSDAMCache::read_cache(int address, int order) {
 }
 
 
-
 bool WSDAMCache::is_cache_full() {
   for(int i = 0; i < directory.size(); i++) {
     for(int j = 0; j < directory.at(i).set_tags.size(); j++) {

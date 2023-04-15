@@ -108,6 +108,7 @@ int main() {
       {
         int addr = center;
         int i = 0;
+        uniform_real_distribution<double> n_dist(0, 64);
         while (i < length) {
           int saved_addr = addr;
           for(int j = 0; j < 32; j++) {
@@ -126,10 +127,12 @@ int main() {
                 break;
               }
             }
+
+          }
           addr = addr * 2;
-            if (addr > 65535) {
-              addr -= 65535;
-            }
+            if (addr > 50000) {
+
+              addr = 0 + n_dist(generator);
           }
         }
         ofile.close();
