@@ -74,8 +74,9 @@ void BasicCache::write_cache(int address, int order) {
   if (is_cache_full()) {
     num_write_cap_misses++;
   }
-  else if (find(visited_tags.begin(), visited_tags.end(), address) == visited_tags.end()) {
+  else if (find(visited_tags.begin(), visited_tags.end(), tag) == visited_tags.end()) {
     num_write_com_misses++;
+    visited_tags.push_back(tag);
 
   }
   else {

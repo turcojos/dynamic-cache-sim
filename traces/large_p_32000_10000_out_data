@@ -1,0 +1,495 @@
+=================================================================================
+Assoc: 2 Block_size: 32 Cache_size: 2048
+Basic Cache :
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+=================================================================================
+Assoc: 2 Block_size: 32 Cache_size: 4096
+Basic Cache :
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+=================================================================================
+Assoc: 2 Block_size: 32 Cache_size: 8192
+Basic Cache :
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+=================================================================================
+Assoc: 2 Block_size: 32 Cache_size: 16384
+Basic Cache :
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+=================================================================================
+Assoc: 2 Block_size: 32 Cache_size: 32768
+Basic Cache :
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+=================================================================================
+Assoc: 4 Block_size: 32 Cache_size: 2048
+Basic Cache :
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+=================================================================================
+Assoc: 4 Block_size: 32 Cache_size: 4096
+Basic Cache :
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+=================================================================================
+Assoc: 4 Block_size: 32 Cache_size: 8192
+Basic Cache :
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+=================================================================================
+Assoc: 4 Block_size: 32 Cache_size: 16384
+Basic Cache :
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+=================================================================================
+Assoc: 4 Block_size: 32 Cache_size: 32768
+Basic Cache :
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+=================================================================================
+Assoc: 8 Block_size: 32 Cache_size: 2048
+Basic Cache :
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+=================================================================================
+Assoc: 8 Block_size: 32 Cache_size: 4096
+Basic Cache :
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+=================================================================================
+Assoc: 8 Block_size: 32 Cache_size: 8192
+Basic Cache :
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+=================================================================================
+Assoc: 8 Block_size: 32 Cache_size: 16384
+Basic Cache :
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+=================================================================================
+Assoc: 8 Block_size: 32 Cache_size: 32768
+Basic Cache :
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 0
+Total reads: 0
+Total write misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total read misses: 0 Comp: 0 Conf: 0 Capa: 0
+Total misses: 0
+

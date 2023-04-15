@@ -1,0 +1,495 @@
+=================================================================================
+Assoc: 2 Block_size: 32 Cache_size: 2048
+Basic Cache :
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 54683 Comp: 44 Conf: 133 Capa: 54506
+Total read misses: 890947 Comp: 0 Conf: 0 Capa: 890947
+Total misses: 945630
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 54784 Comp: 63 Conf: 580 Capa: 54141
+Total read misses: 887723 Comp: 1 Conf: 7523 Capa: 880199
+Total misses: 942507
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 54714 Comp: 55 Conf: 351 Capa: 54308
+Total read misses: 890227 Comp: 6 Conf: 3855 Capa: 886366
+Total misses: 944941
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 54765 Comp: 61 Conf: 635 Capa: 54069
+Total read misses: 888080 Comp: 3 Conf: 5195 Capa: 882882
+Total misses: 942845
+
+=================================================================================
+Assoc: 2 Block_size: 32 Cache_size: 4096
+Basic Cache :
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 52754 Comp: 28 Conf: 426 Capa: 52300
+Total read misses: 834926 Comp: 0 Conf: 1 Capa: 834925
+Total misses: 887680
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 52874 Comp: 32 Conf: 1824 Capa: 51018
+Total read misses: 833859 Comp: 0 Conf: 24242 Capa: 809617
+Total misses: 886733
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 52793 Comp: 31 Conf: 1047 Capa: 51715
+Total read misses: 835003 Comp: 1 Conf: 12230 Capa: 822772
+Total misses: 887796
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 52852 Comp: 31 Conf: 1999 Capa: 50822
+Total read misses: 834408 Comp: 1 Conf: 26891 Capa: 807516
+Total misses: 887260
+
+=================================================================================
+Assoc: 2 Block_size: 32 Cache_size: 8192
+Basic Cache :
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 48859 Comp: 15 Conf: 885 Capa: 47959
+Total read misses: 722610 Comp: 0 Conf: 12 Capa: 722598
+Total misses: 771469
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 48928 Comp: 16 Conf: 4289 Capa: 44623
+Total read misses: 731065 Comp: 0 Conf: 54392 Capa: 676673
+Total misses: 779993
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 49006 Comp: 16 Conf: 2407 Capa: 46583
+Total read misses: 727965 Comp: 0 Conf: 26188 Capa: 701777
+Total misses: 776971
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 48853 Comp: 16 Conf: 5316 Capa: 43521
+Total read misses: 738779 Comp: 0 Conf: 84173 Capa: 654606
+Total misses: 787632
+
+=================================================================================
+Assoc: 2 Block_size: 32 Cache_size: 16384
+Basic Cache :
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 40908 Comp: 8 Conf: 1899 Capa: 39001
+Total read misses: 526647 Comp: 0 Conf: 48 Capa: 526599
+Total misses: 567555
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 41283 Comp: 8 Conf: 14399 Capa: 26876
+Total read misses: 544045 Comp: 0 Conf: 138661 Capa: 405384
+Total misses: 585328
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 40748 Comp: 8 Conf: 4042 Capa: 36698
+Total read misses: 541813 Comp: 0 Conf: 67603 Capa: 474210
+Total misses: 582561
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 40081 Comp: 8 Conf: 15097 Capa: 24976
+Total read misses: 595533 Comp: 0 Conf: 539231 Capa: 56302
+Total misses: 635614
+
+=================================================================================
+Assoc: 2 Block_size: 32 Cache_size: 32768
+Basic Cache :
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 23810 Comp: 4 Conf: 2420 Capa: 21386
+Total read misses: 247594 Comp: 0 Conf: 126 Capa: 247468
+Total misses: 271404
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 24714 Comp: 4 Conf: 18315 Capa: 6395
+Total read misses: 295061 Comp: 0 Conf: 289831 Capa: 5230
+Total misses: 319775
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 23744 Comp: 4 Conf: 12907 Capa: 10833
+Total read misses: 294129 Comp: 0 Conf: 271298 Capa: 22831
+Total misses: 317873
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 25789 Comp: 4 Conf: 14952 Capa: 10833
+Total read misses: 379183 Comp: 0 Conf: 356352 Capa: 22831
+Total misses: 404972
+
+=================================================================================
+Assoc: 4 Block_size: 32 Cache_size: 2048
+Basic Cache :
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 54756 Comp: 63 Conf: 79 Capa: 54614
+Total read misses: 887041 Comp: 0 Conf: 0 Capa: 887041
+Total misses: 941797
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 54782 Comp: 107 Conf: 348 Capa: 54327
+Total read misses: 891439 Comp: 15 Conf: 3348 Capa: 888076
+Total misses: 946221
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 54782 Comp: 83 Conf: 187 Capa: 54512
+Total read misses: 888175 Comp: 27 Conf: 1515 Capa: 886633
+Total misses: 942957
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 54790 Comp: 101 Conf: 388 Capa: 54301
+Total read misses: 888063 Comp: 21 Conf: 6393 Capa: 881649
+Total misses: 942853
+
+=================================================================================
+Assoc: 4 Block_size: 32 Cache_size: 4096
+Basic Cache :
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 52673 Comp: 45 Conf: 165 Capa: 52463
+Total read misses: 836016 Comp: 0 Conf: 0 Capa: 836016
+Total misses: 888689
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 52772 Comp: 62 Conf: 1049 Capa: 51661
+Total read misses: 834944 Comp: 2 Conf: 14602 Capa: 820340
+Total misses: 887716
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 52772 Comp: 60 Conf: 531 Capa: 52181
+Total read misses: 830651 Comp: 3 Conf: 7444 Capa: 823204
+Total misses: 883423
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 52693 Comp: 62 Conf: 1127 Capa: 51504
+Total read misses: 834334 Comp: 2 Conf: 10757 Capa: 823575
+Total misses: 887027
+
+=================================================================================
+Assoc: 4 Block_size: 32 Cache_size: 8192
+Basic Cache :
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 48848 Comp: 30 Conf: 578 Capa: 48240
+Total read misses: 727618 Comp: 0 Conf: 4 Capa: 727614
+Total misses: 776466
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 48997 Comp: 32 Conf: 3407 Capa: 45558
+Total read misses: 727293 Comp: 0 Conf: 41477 Capa: 685816
+Total misses: 776290
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 49017 Comp: 31 Conf: 1696 Capa: 47290
+Total read misses: 725339 Comp: 1 Conf: 19179 Capa: 706159
+Total misses: 774356
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 48852 Comp: 31 Conf: 4372 Capa: 44449
+Total read misses: 743240 Comp: 1 Conf: 65181 Capa: 678058
+Total misses: 792092
+
+=================================================================================
+Assoc: 4 Block_size: 32 Cache_size: 16384
+Basic Cache :
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 40903 Comp: 16 Conf: 1251 Capa: 39636
+Total read misses: 531695 Comp: 0 Conf: 22 Capa: 531673
+Total misses: 572598
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 40940 Comp: 16 Conf: 9143 Capa: 31781
+Total read misses: 548481 Comp: 0 Conf: 105359 Capa: 443122
+Total misses: 589421
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 40706 Comp: 16 Conf: 3715 Capa: 36975
+Total read misses: 548069 Comp: 0 Conf: 57160 Capa: 490909
+Total misses: 588775
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 40054 Comp: 16 Conf: 20398 Capa: 19640
+Total read misses: 611995 Comp: 0 Conf: 589728 Capa: 22267
+Total misses: 652049
+
+=================================================================================
+Assoc: 4 Block_size: 32 Cache_size: 32768
+Basic Cache :
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 24533 Comp: 8 Conf: 1906 Capa: 22619
+Total read misses: 257722 Comp: 0 Conf: 65 Capa: 257657
+Total misses: 282255
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 25355 Comp: 8 Conf: 20072 Capa: 5275
+Total read misses: 320868 Comp: 0 Conf: 317991 Capa: 2877
+Total misses: 346223
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 23950 Comp: 8 Conf: 11909 Capa: 12033
+Total read misses: 325865 Comp: 0 Conf: 300643 Capa: 25222
+Total misses: 349815
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 25852 Comp: 8 Conf: 13811 Capa: 12033
+Total read misses: 424170 Comp: 0 Conf: 398948 Capa: 25222
+Total misses: 450022
+
+=================================================================================
+Assoc: 8 Block_size: 32 Cache_size: 2048
+Basic Cache :
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 54726 Comp: 63 Conf: 21 Capa: 54642
+Total read misses: 890523 Comp: 0 Conf: 0 Capa: 890523
+Total misses: 945249
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 54766 Comp: 153 Conf: 200 Capa: 54413
+Total read misses: 891071 Comp: 61 Conf: 1886 Capa: 889124
+Total misses: 945837
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 54805 Comp: 111 Conf: 86 Capa: 54608
+Total read misses: 892271 Comp: 83 Conf: 1039 Capa: 891149
+Total misses: 947076
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 54759 Comp: 145 Conf: 185 Capa: 54429
+Total read misses: 890321 Comp: 84 Conf: 3954 Capa: 886283
+Total misses: 945080
+
+=================================================================================
+Assoc: 8 Block_size: 32 Cache_size: 4096
+Basic Cache :
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 52764 Comp: 74 Conf: 131 Capa: 52559
+Total read misses: 836241 Comp: 0 Conf: 0 Capa: 836241
+Total misses: 889005
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 52804 Comp: 114 Conf: 704 Capa: 51986
+Total read misses: 834606 Comp: 12 Conf: 6036 Capa: 828558
+Total misses: 887410
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 52638 Comp: 98 Conf: 335 Capa: 52205
+Total read misses: 839259 Comp: 20 Conf: 2855 Capa: 836384
+Total misses: 891897
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 52685 Comp: 119 Conf: 848 Capa: 51718
+Total read misses: 838789 Comp: 9 Conf: 12886 Capa: 825894
+Total misses: 891474
+
+=================================================================================
+Assoc: 8 Block_size: 32 Cache_size: 8192
+Basic Cache :
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 48702 Comp: 54 Conf: 391 Capa: 48257
+Total read misses: 731234 Comp: 0 Conf: 0 Capa: 731234
+Total misses: 779936
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 48849 Comp: 64 Conf: 2194 Capa: 46591
+Total read misses: 733864 Comp: 0 Conf: 27897 Capa: 705967
+Total misses: 782713
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 48842 Comp: 63 Conf: 1121 Capa: 47658
+Total read misses: 727343 Comp: 1 Conf: 13540 Capa: 713802
+Total misses: 776185
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 48721 Comp: 63 Conf: 2845 Capa: 45813
+Total read misses: 742327 Comp: 1 Conf: 26788 Capa: 715538
+Total misses: 791048
+
+=================================================================================
+Assoc: 8 Block_size: 32 Cache_size: 16384
+Basic Cache :
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 40967 Comp: 31 Conf: 935 Capa: 40001
+Total read misses: 526334 Comp: 0 Conf: 7 Capa: 526327
+Total misses: 567301
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 40997 Comp: 32 Conf: 6427 Capa: 34538
+Total read misses: 552877 Comp: 0 Conf: 78270 Capa: 474607
+Total misses: 593874
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 40762 Comp: 31 Conf: 2289 Capa: 38442
+Total read misses: 542257 Comp: 1 Conf: 39262 Capa: 502994
+Total misses: 583019
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 40037 Comp: 31 Conf: 15811 Capa: 24195
+Total read misses: 605438 Comp: 1 Conf: 562636 Capa: 42801
+Total misses: 645475
+
+=================================================================================
+Assoc: 8 Block_size: 32 Cache_size: 32768
+Basic Cache :
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 25090 Comp: 16 Conf: 1552 Capa: 23522
+Total read misses: 244600 Comp: 0 Conf: 27 Capa: 244573
+Total misses: 269690
+
+Normal Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 25431 Comp: 16 Conf: 19528 Capa: 5887
+Total read misses: 329071 Comp: 0 Conf: 325995 Capa: 3076
+Total misses: 354502
+
+Aggressive Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 24051 Comp: 16 Conf: 9432 Capa: 14603
+Total read misses: 331710 Comp: 0 Conf: 295420 Capa: 36290
+Total misses: 355761
+
+Hyper Specialized Dynamic Cache :
+Valid: 1
+Total writes: 1000000
+Total reads: 1886413
+Total write misses: 25444 Comp: 16 Conf: 10825 Capa: 14603
+Total read misses: 428370 Comp: 0 Conf: 392080 Capa: 36290
+Total misses: 453814
+
